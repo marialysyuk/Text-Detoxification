@@ -9,6 +9,7 @@ This is the first competition on the automatic detoxification of the Russian tex
 The results of the competition are presented here: https://codalab.lisn.upsaclay.fr/competitions/532#results.
 
 **Style transfer accuracy**: 1/11
+
 **ChrF1** : 4/11.
 
 
